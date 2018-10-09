@@ -1,0 +1,34 @@
+Project Description:
+2D arcade space shoot’em up. One player faces off against multiple enemies, shooting them down until they win or lose.
+
+Target Audience:
+Casual computer gaming audience.
+
+Non-Functional Requirements:
+Does not crash on modern systems. (reliability)
+Save state often, able to recover save state. (recoverability)
+Other coders able to extend our code easily for their use. 
+
+Functional Requirements:
+Curlpp and OpenGL
+Multiple levels
+Save States
+Multiple enemy types
+Hotseat multiplayer
+Power-ups
+Controller support
+Scoring system
+Cloud saving
+
+Use Cases:
+Entertainment
+
+Timeline:
+Feb 20: Demo of library use, have libraries downloaded and useable
+Mar 1: World state, player controls
+Mar 14: All enemies
+Mar 21: Levels, save states
+March 28: Scoring system + scoreboard
+April 4: Power-ups, multiplayer
+April 11: Controller Support
+April 18: Bosses, Audio, or other additional features
